@@ -1,5 +1,7 @@
 # Lisp-Go Development Guide
 
+Com base no livro https://buildyourownlisp.com/contents, implementando um LISP em Go.
+
 ## Quick Commands
 - `make repl` ou `make run` - Iniciar REPL
 - `make build` - Compilar binário
