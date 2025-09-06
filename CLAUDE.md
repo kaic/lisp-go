@@ -1,6 +1,6 @@
 # Lisp-Go Development Guide
 
-Based on the book <https://buildyourownlisp.com/contents>, implementing a LISP interpreter in Go.
+Based on the book <https://buildyourownlisp.com/contents>, implementing a LISP interpreter in C.
 
 ## Quick Commands
 
